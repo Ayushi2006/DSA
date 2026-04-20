@@ -9,7 +9,7 @@ The aim is to build strong problem-solving skills by understanding concepts deep
 
 ### ✅ Current Implementations 
 
-- 🔹 Singly Linked List (Python)
+- 🔹 Singly Linked List (Python) 
 ---
 
 ## 🧠 Singly Linked List
