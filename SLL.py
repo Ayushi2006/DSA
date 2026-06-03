@@ -1,11 +1,8 @@
-# not efficient improvement needed
-class Node:
- 
-    def __init__(self, item=None, next=None):   
-        self.item=item    
-        self.next=next 
-  
 class SLL:
+    class Node:
+        def __init__(self, item=None, next=None):
+            self.item=item    
+            self.next=next 
 
     def __init__(self, start=None):
         self.start=start
@@ -14,11 +11,11 @@ class SLL:
         return self.start==None
 
     def insert_at_start(self, data):
-        n=Node(data, self.start)
+        n=self.Node(data, self.start)
         self.start=n
         
     def insert_at_last(self, data):
-        n=Node(data)
+        n=self.Node(data)
         if not self.is_empty():
             temp=self.start
             while temp.next is not None:
@@ -37,7 +34,7 @@ class SLL:
     
     def insert_after(self, temp, data):
         if temp is not None:
-            n=Node(data, temp.next)
+            n=self.Node(data, temp.next)
             temp.next=n
 
     def display_list(self):
