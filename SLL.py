@@ -5,7 +5,7 @@ class SLL:
             self.next=next 
 
     def __init__(self, start=None):
-        self.start=start
+        self.start=start 
   
     def is_empty(self):
         return self.start==None
