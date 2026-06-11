@@ -1,73 +1,76 @@
-# 📌 Data Structures & Algorithms(Python)  
- 
-This repository documents my journey of learning and implementing core Data Structures and Algorithms using Python.      
-The aim is to build strong problem-solving skills by understanding concepts deeply and implementing them from scratch.         
-     
----   
- 
-## 🚀 What’s Inside  
- 
-### ✅ Current Implementations 
- 
-- 🔹 Singly Linked List (Python) 
----
+# Data Structures and Algorithms (DSA)
 
-## 🧠 Singly Linked List
+A personal repository where I practice and learn Data Structures and Algorithms using Python.
 
-This is a custom implementation of a singly linked list without using built-in data structures.
+## About
 
-### ✨ Features
+This repository contains implementations of various data structures and algorithms that I learned during my coursework and self-study. The goal is to understand the logic behind each concept and improve problem-solving skills.
 
-- Create a linked list
-- Insert elements:
-  - At the beginning
-  - At the end
-  - After a specific element
-- Delete elements:
-  -Delete first
-  -Delete last
-  -Delete a specific element
-- Search
-- Display the list
+## Topics Covered
 
----
+### Linked Lists
+- Singly Linked List (SLL)
+- Doubly Linked List (DLL)
 
-## 💡 What I Learned
+### Stacks
+- Stack using Singly Linked List
 
-- Understanding node structure and pointer linking
-- Difference between arrays and linked lists
-- Memory-efficient data handling
-- Writing modular and readable code
-- Debugging pointer-based logic
+### Queues
+- Queue using List
+- Queue using Linked List
+- Circular Queue using Linked List
 
----
+### Trees
+- Binary Tree
 
-## 📈 Future Plans
+### Graphs
+- Adjacency Matrix Representation
+- Adjacency List Representation
+- Shortest Path Algorithm
 
-This repository will be continuously updated with:
+## Repository Structure
 
-- 🔸 Doubly Linked List  
-- 🔸 Stack  
-- 🔸 Queue  
-- 🔸 Trees  
-- 🔸 Graphs  
-- 🔸 Sorting Algorithms  
-- 🔸 Searching Algorithms  
+```text
+DSA/
+│
+├── Adjacency_Matrix.py
+├── Binary_Tree.py
+├── Circular_Queue-LL.py
+├── Doubly_LL.py
+├── queue_linkedlist.py
+├── queue_list.py
+├── stack_sll.py
+│
+└── Graph/
+    ├── Adjacency_List.py
+    └── shortest_path.py
+```
 
----
+## Learning Objectives
 
-## 🛠️ Tech Stack
+- Understand fundamental data structures
+- Learn algorithmic thinking
+- Analyze time and space complexity
+- Prepare for coding interviews and competitive programming
+- Build a strong foundation in computer science
 
-- Python
+## Language Used
 
----
+- Python 3
 
-## 🎯 Goal
+## Future Additions
 
-To build a strong foundation in Data Structures and Algorithms and improve problem-solving skills for technical interviews and real-world applications.
+- Searching Algorithms
+- Sorting Algorithms
+- Binary Search Tree
+- AVL Tree
+- Heap
+- Hash Table
+- DFS and BFS
+- Dijkstra's Algorithm
+- Dynamic Programming
+- LeetCode Solutions
 
----
+## Author
 
-## 📌 Note
-
-This repository reflects my continuous learning journey. Improvements, optimizations, and new implementations will be added over time.
+Ayushi R
