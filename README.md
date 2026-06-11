@@ -69,7 +69,6 @@ DSA/
 - DFS and BFS
 - Dijkstra's Algorithm
 - Dynamic Programming
-- LeetCode Solutions
 
 ## Author
 
