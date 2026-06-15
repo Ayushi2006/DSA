@@ -3,7 +3,7 @@ class BT:
         self.root = None
     class Node:
         def __init__(self, d, p, l, r):
-            self.data = d
+            self.data = d 
             self.parent = p
             self.left = l
             self.right = r
