@@ -1,10 +1,11 @@
 class Stack:
-    def __init__(self):
-        self.top = None  
     class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
+        
+    def __init__(self):
+        self.top = None  
 
     def is_empty(self):
         return self.top is None
