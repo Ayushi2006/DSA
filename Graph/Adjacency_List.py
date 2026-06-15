@@ -4,7 +4,7 @@ class GraphList:
             self.edge=data
             self.next=None
 
-    class NodeVertex:
+    class NodeVertex: 
         def __init__(self,data):
             self.data=data
             self.next_vertex=None
