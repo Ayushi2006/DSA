@@ -9,7 +9,7 @@ This repository contains implementations of various data structures and algorith
 ## Topics Covered
 
 ### Linked Lists
-- Singly Linked List (SLL)
+- Singly Linked List (SLL) 
 - Doubly Linked List (DLL)
 
 ### Stacks
