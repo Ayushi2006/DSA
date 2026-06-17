@@ -6,7 +6,7 @@ step 3. Handle circular movement using modulo %
 step 4. Resize array if full."""
 
 class CircularQueue:
-    def __init__(self, capacity):
+    def __init__(self, capacity):  
         self.capacity=capacity
         self.queue=[None]*capacity
         self.front=0
