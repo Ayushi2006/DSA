@@ -46,7 +46,7 @@ class CircularQueue:
 cap = int(input("Enter capacity:"))
 cq=CircularQueue(cap)
 
-while True:
+while True: 
     print("\n1. Enqueue 2.Dequeue 3.Display 4.Exit")
     choice=int(input("Enter value:"))
 
