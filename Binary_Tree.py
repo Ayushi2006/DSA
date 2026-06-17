@@ -7,7 +7,7 @@ class BT:
             self.parent = p
             self.left = l 
             self.right = r
-    def create_node(self,d,p,l=None,r=None):
+    def create_node(self,d,p,l=None,r=None): 
         n = self.Node(d,p,l,r)
         return n
     def assign_root(self,n):
