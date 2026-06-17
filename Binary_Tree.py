@@ -5,7 +5,7 @@ class BT:
         def __init__(self, d, p, l, r):
             self.data = d 
             self.parent = p
-            self.left = l
+            self.left = l 
             self.right = r
     def create_node(self,d,p,l=None,r=None):
         n = self.Node(d,p,l,r)
