@@ -1,6 +1,5 @@
-# LAB EXAM
 # ADJACENCY MATRIX
-# Graph representation : entry will be 0 or None if no edge exists.
+# Graph representation: entry will be 0 or None if no edge exists.
 
 V=int(input("Enter the number of vertices:"))
 A=[]
