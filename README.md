@@ -70,6 +70,5 @@ DSA/
 - Dijkstra's Algorithm
 - Dynamic Programming
 
-## Author
 
-Ayushi R
+---
