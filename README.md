@@ -20,7 +20,7 @@ This repository contains implementations of various data structures and algorith
 ### Stacks
 - Stack using Singly Linked List
 
---
+
 
 ### Queues
 - Queue using List
