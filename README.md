@@ -2,13 +2,12 @@
  
 A personal repository where I practice and learn Data Structures and Algorithms using Python.
 
- --
 
 ## About 
  
 This repository contains implementations of various data structures and algorithms that I learned during my coursework and self-study. The goal is to understand the logic behind each concept and improve problem-solving skills. 
 
- --
+ 
  
 ## Topics Covered
  
@@ -16,7 +15,7 @@ This repository contains implementations of various data structures and algorith
 - Singly Linked List (SLL) 
 - Doubly Linked List (DLL)
 
---
+
 
 ### Stacks
 - Stack using Singly Linked List
@@ -28,23 +27,23 @@ This repository contains implementations of various data structures and algorith
 - Queue using Linked List
 - Circular Queue using Linked List
 
---
+
 
 ### Trees
 - Binary Tree
 
---
+
 
 ### Graphs
 - Adjacency Matrix Representation
 - Adjacency List Representation
 - Shortest Path Algorithm
 
---
+
 
 ## Repository Structure
 
---
+
 
 ```text
 DSA/
@@ -62,7 +61,7 @@ DSA/
     └── shortest_path.py
 ```
 
---
+
 
 ## Learning Objectives
 
@@ -72,13 +71,13 @@ DSA/
 - Prepare for coding interviews and competitive programming
 - Build a strong foundation in computer science
 
---
+
 
 ## Language Used
 
 - Python 3
 
---
+
 
 ## Future Additions
 
