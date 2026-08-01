@@ -1,6 +1,8 @@
+# creating binary tree class
 class BT:
     def __init__(self):
         self.root = None
+        
     class Node:
         def __init__(self, d, p, l, r):
             self.data = d 
