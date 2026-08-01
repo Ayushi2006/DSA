@@ -3,6 +3,7 @@ class BT:
     def __init__(self):
         self.root = None
         
+# creating node class
     class Node:
         def __init__(self, d, p, l, r):
             self.data = d 
