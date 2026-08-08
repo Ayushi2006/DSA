@@ -2,7 +2,7 @@
 
 """step 1. initialize: create array of fixed capacity set front = 0, size = 0
 step 2. implement operations: enqueue->insert element at rear using circular index, dequeue->remove element from front, first->return front element
-step 3. Handle circular movement using modulo %
+step 3. Handle circular movement using modulo %                        
 step 4. Resize array if full."""
 
 class CircularQueue:
