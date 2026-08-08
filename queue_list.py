@@ -4,7 +4,7 @@ class Queue:
     # initialize an empty list
     def __init__(self):
         self.data=[]
-    # enqueue operation - front
+    # enqueue operation - front 
     def enqueue(self, d):
         self.data.append(d)
     
