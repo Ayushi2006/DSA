@@ -7,7 +7,7 @@ step 4. Resize array if full."""
 
 class CircularQueue:
     def __init__(self, capacity):  
-        self.capacity=capacity
+        self.capacity=capacity 
         self.queue=[None]*capacity
         self.front=0
         self.size=0
