@@ -13,7 +13,7 @@ This repository contains implementations of various data structures and algorith
  
 ### Linked Lists
 - Singly Linked List (SLL) 
-- Doubly Linked List (DLL)
+- Doubly Linked List (DLL)   
 
 
 
